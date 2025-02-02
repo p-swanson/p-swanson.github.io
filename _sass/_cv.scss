@@ -117,6 +117,7 @@ div.list-group {
 td.list-group-category {
   color: var(--global-theme-color);
   margin-bottom: 0.5rem;
+  font-weight: 400; // changes made here
 }
 
 td.list-group-category-icon {
