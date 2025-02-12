@@ -45,7 +45,7 @@
       "position": "Undergraduate Research Assistant",
       "startDate": "2022-06-01",
       "endDate": "2024-07-01",
-      "summary": "In Prof. Yi Qin Gao's group, I studied molecular docking and molecular simulation. I conducted research on GPU-accelerated flexible docking under the supervision of Prof. Gao and Dr. Hong Zhang."
+      "summary": "In Prof. Yi Qin Gao's group, I studied molecular docking and molecular simulation. I worked on GPU-accelerated flexible docking under the supervision of Prof. Gao and Dr. Hong Zhang."
     } 
   ],
   "skills": [
@@ -55,7 +55,7 @@
       "icon": "fa-solid fa-hat-wizard",
       "keywords": [
         "Molecular Docking",
-        "MD Simulation",
+        "Molecular Dynamics Simulation",
         "Quantum Chemistry"
       ]
     },
@@ -70,13 +70,13 @@
       ]
     },
     {
-      "name": "Machine Learning",
+      "name": "Deep Learning",
       "level": "Master",
       "icon": "fa-solid fa-server",
       "keywords": [
-        "Python",
-        "CUDA C++",
-        "Bash"
+        "Generative Models",
+        "Geometric Deep Learning",
+        "(and more)"
       ]
     }
   ],
