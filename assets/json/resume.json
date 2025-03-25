@@ -17,7 +17,7 @@
       "institution": "University of Wisconsin-Madison",
       "location": "Madison, WI, US",
       "url": "https://www.wisc.edu/",
-      "area": "Theoretical Chemistry",
+      "area": "Theoretical & Computational Chemistry",
       "studyType": "PhD",
       "startDate": "2024-08-01",
       "endDate": "2029-05-01"
@@ -76,7 +76,7 @@
       "keywords": [
         "Generative Models",
         "Geometric Deep Learning",
-        "(and more)"
+        "Protein Language Models"
       ]
     }
   ],
