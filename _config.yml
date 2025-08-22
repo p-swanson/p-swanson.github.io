@@ -28,7 +28,7 @@ author:
   bio              : ""
   location         : "U.S."
   uri              : # URL
-  email            : "hkoh23@wisc.edu" 
+  #email            : "hkoh23@wisc.edu" 
 
   # Academic websites
   academia         : # URL
