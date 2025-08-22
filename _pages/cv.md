@@ -12,56 +12,73 @@ redirect_from:
 Education
 ======
 * Ph.D Physical Chemistry, University of Wisconsin-Madison, 2029 (Expected)
-* B.S. Chemistry and Nanoscience, Ewha Womans Universiy
+* B.S. Chemistry, Minors in both Biophysics and Applied Mathematics, University of New England
   * Summa Cum Laude
-  * Dean's List for 6 semesters
-  * Full tuition and stipend for top-tier CSAT scorers
+  
 
-Work Experience
+Experience
 ======
-* **Freelancer 2023.07.–2024.08.**
-  * Development of a [Wholesale butcher shop](https://hansolmeat.shop/)
-    * FE: Next.js / BE: Next.js, MySQL.
-  * Development of a [Children Education Consulting Web](https://yoonsparenting.com/)
-    * FE: Wordpress Design / BE: Node.js
-  * Maintenance of a Twitch-Page
-  * Development of Web-Taggin bot of Samsung.com  
-* **Senior Software Engineer, FE/BE, Samsung Card, S. Korea 2023.01.–2023.07.**
-  * MyData Business Construction Development of Samsung Card Networking Mobile Application [Monimo](https://www.monimo.com/w/main/WPFMHP0101M0).
-    * Developed functions and screens in parts of Consumption, Point-money, Pensions, Insurance.
-    * Developed an error defense logic for easily tracking uncertain data when data unlike the actual reference come in.
-    * Applied the build method, Vite to enhance the velocity of build.
-    * Used web-app Method, development approach where mobile app’s user interface and function are built using web tech.
-    * FE: Vue.js, nuxt.js / BE: SpringBoot2.x, Mybatis, Oracle, SQL.
-* **Junior Software Engineer, FE/BE/DB, Shinhan Financial Group Corporation Ltd 2022.03.–2022.12.**
-  * Cambodia's BPR(Business Process Reengineering) system Project
-    * Digitalized the function of previous analogue delivery process of valuable documents for loans through the branches.
-    * Designed a screen for preventing non-authoritative document scanning.
-    * Maintenance of India's Important Property Documents Scan System
-  * Maintained the scan system of important property documents for loans in India Mumbai branch.
-  * Shift of Flex Screen to Html5 Project across the country
-    * Changed screens written in flex into html5/css/actionscript for Vietnam and Mexico branches
-    * FE: html5, actionscript / BE: C, Oracle, SQL
-* **Junior Software Engineer, FE, Sandslab Co., Ltd, S. Korea 2021.09.–2022.01.**
-  * Company Solutions Home Page [malwares.com](https://www.ctx.io/) Renewal Project
-    * Published basic web functions.
-    * Linked a payment system using the external API, toss payments.
-    * Created an internal API Using java Spring Boot and private API Using the FastAPI framework.
-    * Developed anti-scraping bot (Node.js) products.
-
+* **Summer Internship 2024.05.–2024.08.**
+  * Summer research internship for the laboroatory of X. Huang
+* **Research Assistant 2022.05.–2024.05.**
+  * [BIO-SENS project. NSF Award #2119237](https://www.nhepscor.org/bio-sens)
+    * Co-PI 2: Dr. Eva R. Balog. Producing and characterizing analyte responsive protein bio-polymers.
+* **Research for Credit 2023.01 - 2024.05**
+  * Investigating the effect of polymer architecture on the behavior of poly(vinyl acetate) in supercritical CO$_2$ using classical molecular dynamics simulations. 
 
 Certifications & Honors
 =======================
 
-* **Top Employee Award, Shinhan Financial Group Corporation Ltd 2022**
-  * Selected as an outstanding performer in recognition of software delivery performance.
+* **Pei-Wang Fellowship 2024-2025**
+  * University of Wisconsin-Madison
+    * 12,000$ supplemental fellowship
 
-* **SQLD (Sequential Query Language Developer), Korea Data Agency 2022.09.**
-  * Passed national certification exam focused on relational database theory and SQL optimization.
+* **Kahn Family Fellowship 2023.05 - 2023.08**
+  * University of New England
+    * Undergraduate summer research fellowship 5,000$ summer stipend and 1,000$ research budget
 
-* **Engineer Information Processing, HRD Korea (Human Resources Development Service of Korea) 2022.06.**
-  * National technical license covering software development, system analysis, and data processing principles.
+Presentations - Poster
+=======================
+* **“Episol: a fast implicit-solvent solver for biomolecules and small organic compounds”**
+  * P. Swanson, S. Cao
+    * Midwest Theoretical Chemistry Conference, Detroit, MI. Jun 2025
+* **“Finite size effects of polymers in supercritical CO2 via molecular simulations.”**
+  * P. Swanson, J. Stubbs
+    * University of New England Spring Research Symposium, Biddeford, ME. May 2024
+* **Phase Behavior of a Multi-Stimuli Responsive Bio-polymer**
+  * P. Swanson, B. Wheeler, E. Balog
+    * University of New England Fall Undergraduate Research Symposium, Biddeford, ME. Aug. 2023
+* **“Novel Interleukin-6 Responsive Bio-Polymer”**
+  * P. Swanson, E. Balog
+    * The Protein Society, 37th Meeting. Boston, MA. July 2023
+    * BIO-SENS Annual Symposium. Biddeford, ME. July 2023
+* **“Effect of poly(vinyl acetate) architecture on solvation in supercritical CO2 via molecular simulations.”**
+  * P. Swanson, J. Stubbs
+    * University of New England Spring Research Symposium, Biddeford, ME. May 2023
+* **“Toward the Creation of a Novel Interleukin-6 Responsive Bio-polymer for Sensing Applications.”**
+  * P. Swanson, C. Richard, E. Balog
+    * University of New England Fall Undergraduate Research Symposium, Biddeford, ME. Oct. 2022
+    * First Maine Annual Biomedical Science and Engineering Conference, Portland, ME. Nov. 2022
+    * 2022 NSF EPSCoR Conference, Portland, ME. Nov. 2022
+    * Maine Research Symposium on Biomedical Science and Engineering, Orono, ME, Nov. 2023
 
-* **Samsung Software Academy for Youth (SSAFY), Samsung Electronics 2021.01.–2021.06.**
-  * Completed a full-time software engineering program funded by Samsung Electronics.
-  * Focused on Python, algorithm optimization, and web project deployment.
+
+Presentations - Oral
+=======================
+* **“d-Orbital Splitting Pattern of Natural and Engineered Cytochrome-c Proteins”**
+  * P. Swanson, B. Wheeleer, E. Balog
+    * University of New England Spring Research Symposium, Biddeford, ME. May 2024
+* **“Phase Behavior of a Multi-Stimuli Responsive Bio-polymer”**
+  * P. Swanson, B. Wheeleer, E. Balog
+    * SURE Symposium, University of New England, Biddeford, ME. Aug. 2023
+* **“Stimuli Responsive Behavior of a Charged Elastin-Like Polymer.”**
+  * P. Swanson, E. Balog
+    * University of New England Spring Research Symposium, Biddeford, ME. May 2023
+* **“Protein pipeline: From Nature to Industry.” - Presentation and panelist**
+  * BIOSENS Annual Symposium, Auburn, AL. July 202
+
+Publications
+=======================
+Swanson, P. C.; Arnold, G. P.; Curley, C. E.; Wakita, S. C.; Jeffery; Rose, E. Understanding the Phase Behavior of a
+Multistimuli-Responsive Elastin-like Polymer: Insights from Dynamic Light Scattering Analysis. The journal of physical
+chemistry. B 2024. https://doi.org/10.1021/acs.jpcb.4c00070.
