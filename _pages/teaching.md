@@ -14,4 +14,6 @@ redirect_from:
 * **University of Wisconsin-Madison**
 - **Chem 103** – General Chemistry I (Spring 2025) 
 - **Chem 104** – General Chemistry II (Fall 2024)  
-
+* **University of NewEngland**
+- **Chem 250** – Organic Chemistry (Fall 2022) 
+- **Phys 110** – Physics II (Spring 2023)  
